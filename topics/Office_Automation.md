@@ -1,4 +1,4 @@
-# Do not waste your time and energy on trivial things. Write elegant scripts to process them
+# Do not waste your time and energy on trivial things. Write elegant scripts to process them automatically
 
 ## What is Office Automation
 
