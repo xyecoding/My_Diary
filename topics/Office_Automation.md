@@ -16,3 +16,5 @@ office.
 ## How to do Office Automation
 
 Write organized and elegant scripts to do a series of things systematically.
+
+<font color=red>Use shell skillful</font>
