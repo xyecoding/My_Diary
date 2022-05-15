@@ -1,4 +1,4 @@
-# What is coding ability?
+# What is coding ability? <font color=magenta>[2022-05-15]</font>
 
 I studied several language these days? However, I do not think my coding ability
 is improved much. So what is coding ability? This question is important. It is
