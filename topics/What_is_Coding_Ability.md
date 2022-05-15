@@ -31,6 +31,6 @@ related to how to improve myself on coding.
 ## How To Do?
 
 Thus, there is no need to lean many languages. The most important for me now may
-be the logic of code including the global logic, i.e., [algorithm](#al) and
-[modularized](#mo). Notice the <font color=red>global logic and the local
-logic</font>.
+be the logic of code including the global logic, i.e., [modularized](#mo), and
+local logic, i.e., [algorithm](#al). Notice the <font color=red>global logic and
+the local logic</font>.
