@@ -12,7 +12,11 @@ Questions for work intention.
    - Nature Language Processing (Is it hot?)
      - Graph Neural Network
      - Transformer
+     - BERT
    - Reinforcement Learning
+   - Vim
+   - Blog
+   - Arch Linux
 
 2. What skills I what to be developed?
 
