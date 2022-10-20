@@ -5,4 +5,4 @@ set filename $(date +"%Y-%m-%d")_$confirm.md
 
 set filename_new (echo $filename | string replace -a _ ' ' | sed 's/^\w\|\s\w/\U&/g' | string replace -a ' ' _)
 
-# vi ~/myDiary/topics/$filename_new
+vi ~/myDiary/topics/$filename_new
